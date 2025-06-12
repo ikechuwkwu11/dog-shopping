@@ -1,9 +1,7 @@
 # 🐶 Dog Shopping Site (Flask App)
----
 A simple, scalable, and modular Flask web application for browsing and managing dog-related products. Built using Flask Blueprints, this project cleanly separates admin and user functionality, making it easy to maintain and extend.
 
 ## 🌟 Features
----
 🛍️ User/Public
 - View all available dog-related products
 - Search products by name or category
