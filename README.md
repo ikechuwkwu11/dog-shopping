@@ -1,22 +1,29 @@
-Dog Shopping Site 
-A simple and modular Flask web application for browsing and managing dog-related products, built using Flask Blueprints. This project is structured to separate admin and user functionalities, making it scalable and maintainable.
+# 🐶 Dog Shopping Site (Flask App)
+A simple, scalable, and modular Flask web application for browsing and managing dog-related products. Built using Flask Blueprints, this project cleanly separates admin and user functionality, making it easy to maintain and extend.
 
-Features
+## 🌟 Features
+🛍️ User/Public
+- View all available dog-related products
+- Search products by name or category
+- View product details (price, description, etc.)
+- User registration and login
 
-- View and search dog products (public/user)
--  Admin panel for managing inventory
--  Add, edit, delete products (admin only)
--  Search functionality
--  Login & registration system
--  Modular Flask Blueprints for clean separation
+### 🔐 Admin Panel
+- Add new products
+- Edit existing product details
+- Delete products from inventory
+- Admin-level search functionality
+- Secured admin access
 
- Tech Stack
+#### ⚙️ Development Architecture
+- Modular Blueprints for user and admin sections
+- Easy to scale and maintain
 
-- Backend: Python, Flask
-- Database: SQLite (can be swapped for PostgreSQL or MySQL)
-- Frontend: HTML, Bootstrap (optional)
-- ORM: SQLAlchemy
-- Session Management: Flask-Login
-
-## Project Structure
+##### 🛠 Tech Stack
+- Layer	Technology
+- Backend	Python, Flask
+- Database	SQLite (can be upgraded to PostgreSQL or MySQL)
+- Frontend	HTML, Bootstrap (optional)
+- ORM	SQLAlchemy
+- Authentication	Flask-Login
 
