@@ -9,6 +9,7 @@ A simple, scalable, and modular Flask web application for browsing and managing 
 - User registration and login
 
 ### 🔐 Admin Panel
+---
 - Add new products
 - Edit existing product details
 - Delete products from inventory
