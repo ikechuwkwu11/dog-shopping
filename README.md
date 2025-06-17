@@ -23,12 +23,14 @@ A simple, scalable, and modular Flask web application for browsing and managing 
 
 ### 🛠 Tech Stack
 ---
-- Layer	Technology
-- Backend	Python, Flask
-- Database	SQLite (can be upgraded to PostgreSQL or MySQL)
-- Frontend	HTML, Bootstrap (optional)
-- ORM	SQLAlchemy
-- Authentication	Flask-Login
+| Layer    | Technology                                 |
+| -------- | ------------------------------------------ |
+| Backend  | Python, Flask                              |
+| Frontend | HTML, Bootstrap (optional)                 |
+| Database | SQLite (upgradable to PostgreSQL or MySQL) |
+| ORM      | SQLAlchemy                                 |
+| Auth     | Flask-Login                                |
+
 
 ### 🔐 Admin Access
 ---
